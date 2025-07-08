@@ -1,62 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Photo Gallery</title>
-    <style>
-        body {
-            background-color: white;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        nav {
-            background-color: #f7f7f7;
-            padding: 15px 0;
-        }
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: #333;
-            font-weight: bold;
-            font-size: 18px;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-            padding: 20px;
-        }
-        .gallery img {
-            max-width: 200px;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <nav>
-      <a href="index.html">About</a>
-      <!-- Future tabs:
-      <a href="projects.html">Projects</a>
-      <a href="contact.html">Contact</a>
-      -->
-    </nav>
-    <h1>About</h1>
-    <div class="gallery">
-        <figure>
-            <img src="images/car.jpg" alt="Car">
-            <figcaption>This is the car my dad was driving a long time ago</figcaption>
-        </figure>
-        <figure>
-            <img src="images/me.jpg" alt="Me">
-            <figcaption>This is me during winter</figcaption>
-        </figure>
-    </div>
-</body>
-</html>
+<nav>
+  <a href="index.html">About</a>
+  <!-- <a href="projects.html">Projects</a>
+  <a href="contact.html">Contact</a> -->
+</nav>
 
 **Welcome to *Cooking in the Neon Shadows*!**
 
