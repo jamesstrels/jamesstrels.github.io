@@ -18,6 +18,7 @@ Just as Captain Walker in *The Line* faces tough decisions, so will you in your 
 
 This isn't just a blog—it's an adventure. Join me as we uncover new ingredients, experiment with bold flavors, and transform everyday meals into extraordinary experiences. Your journey begins now. Welcome to *Cooking in the Neon Shadows*—where every meal is a story waiting to be told.
 
+![Description of image](/website/images/IMG_5078.jpg)
 ---
 
 Stay tuned, stay hungry, and remember: The neon lights may fade, but the flavors linger forever. Ready to embark on this culinary quest? Let's cook!
